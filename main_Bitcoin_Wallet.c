@@ -1,3 +1,6 @@
+// This is a second program is called Bitcoin_Wallet. This can be used to 
+// make the scammer beleive that there are bitcoins in your wallet.
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
